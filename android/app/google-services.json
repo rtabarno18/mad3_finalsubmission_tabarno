@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75741263253",
+    "project_id": "tabarno-firebase-finals",
+    "storage_bucket": "tabarno-firebase-finals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75741263253:android:38bf74473dea70a43a729c",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjROEbKAYLEStyBVvNWh6FJ2cHKMLS-Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
